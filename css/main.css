@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-div#nav{
+nav {
   text-align: center;
 }
 nav ul, footer ul {
