@@ -1,3 +1,5 @@
 name: Tuneer Mondal
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-architect
